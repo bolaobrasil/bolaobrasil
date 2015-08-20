@@ -11,3 +11,27 @@ function abrir(URL) {
  
 }
 </script>
+
+
+____
+
+
+http://html-color-codes.info/Codigos-de-Cores-HTML/
+
+
+
+Usar o código de cor HTML para cor de fundo do website:
+
+<body style="background:#80BFFF">
+
+Usar o código de cor HTML para definir a cor do texto/font:
+
+<span style="color:#80BFFF">
+
+Usar o código de cor HTML para cor de fundo das tabelas:
+
+<table style="background:#80BFFF">
+
+Usar o código de cor HTML para cor da ligação:
+
+<a style="color:#80BFFF">
