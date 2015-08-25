@@ -1,0 +1,79 @@
+table {
+    width: 100%;
+    border: 1px dashed #22467B;
+    border-collapse: collapse;
+    font-size: 10px;
+}
+
+table td, th
+{
+    padding: 3px 7px 2px 7px;
+    
+}
+
+table th
+{
+    font-size: 14px;
+    text-align: left;
+    padding: 5px 0 4px 0;
+    background-color: #22467B;
+    color: #fff;
+    
+}
+table tr:hover
+{
+    background-color: #FFFF00;
+}
+.corTr
+{
+    background-color: #1874CD;
+}
+#geral
+{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+#cabecalho
+{
+    padding: 10px;
+    background-color: #cccc00;
+}
+#menu
+{
+    float: left;
+    width: 220px;
+    background-color: #ffcc66;
+    padding: 10px;
+}
+#principal
+{
+    display: table;
+    width: 100%;
+}
+.bloco2Div
+{
+    float: right;
+    width: 720px;
+}
+.blocoCentral
+{
+    float: left;
+    width: 480px;
+    background-color: #6699ff;
+    padding: 10px
+}
+.blocoDireita
+{
+    float: right;
+    width: 200px;
+    background-color: highlight;
+    padding: 10px
+}
+#rodape
+{
+    color: #fff;
+    clear: both;
+    background-color: #000;
+    padding: 10px;
+}
